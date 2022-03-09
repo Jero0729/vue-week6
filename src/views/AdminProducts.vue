@@ -70,7 +70,6 @@ export default {
   components: {
     Pagination
   },
-  // props: ['token'],
   mounted () {
     this.getData()
     this.loading()
